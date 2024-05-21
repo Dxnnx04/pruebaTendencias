@@ -1,0 +1,14 @@
+json de creación de usuario
+{
+      "nombre": "Xavier",
+      "apellido": "Rakata",
+      "edad": 12
+}
+
+json de creación de foto 
+{
+"numeroDeFoto": 1,
+    "fecha": "2024-05-19",
+    "guardada": true
+}
+
